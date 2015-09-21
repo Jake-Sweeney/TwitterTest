@@ -1,1 +1,1 @@
-This is a sample repo for working with the Twitter API.
+This is a sample repository for working with the Twitter API.
